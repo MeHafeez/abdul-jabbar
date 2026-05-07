@@ -151,7 +151,7 @@ export function Hero() {
               {/* Profile Image Container */}
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden profile-image bg-secondary">
                 <Image
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Abdul Jabbar Shaik - Senior Accountant"
                   fill
                   className="object-cover"
