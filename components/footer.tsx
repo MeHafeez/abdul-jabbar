@@ -96,7 +96,7 @@ export function Footer() {
             {/* Social */}
             <div className="flex gap-3 mt-5">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/abdul-jabbar-shaik-62469930b/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-lg bg-primary-foreground/10 flex items-center justify-center text-primary-foreground/70 hover:text-primary-foreground hover:bg-primary-foreground/20 transition-all"

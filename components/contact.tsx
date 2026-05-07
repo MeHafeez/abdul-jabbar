@@ -173,7 +173,7 @@ export function Contact() {
               <h4 className="text-sm text-muted-foreground uppercase tracking-wider mb-3">Connect</h4>
               <div className="flex gap-3">
                 {[
-                  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
+                  { icon: Linkedin, href: "https://www.linkedin.com/in/abdul-jabbar-shaik-62469930b/", label: "LinkedIn" },
                   { icon: Mail, href: "mailto:abduljabbaraca@gmail.com", label: "Email" },
                   { icon: Globe, href: "#", label: "Portfolio" },
                 ].map((social) => {
